@@ -1,5 +1,5 @@
 print("This is to test my project...")
-print "this is another test"
+print("this is another test")
 @keyword(name="test keyword")
 def test_keyword():
     """
