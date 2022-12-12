@@ -5,8 +5,5 @@ def test_keyword():
     """
     This is a testkeyword for python pylints
     """
-    a = 10
-    b = 20
-    c = a + b
-    print("Sume of a and b is:", c)
+    print("Sume of a and b is:")
     
