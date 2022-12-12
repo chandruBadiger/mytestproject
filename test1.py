@@ -7,6 +7,6 @@ def test_keyword():
     """
     a = 10
     b = 20
-    sum = a + b
-    print("Sume of a and b is:", sum)
+    c = a + b
+    print("Sume of a and b is:", c)
     
