@@ -5,4 +5,3 @@ def test_keyword():
     This is a testkeyword for python pylints
     """
     print("Sume of a and b is:")
-    
