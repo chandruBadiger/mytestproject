@@ -1,7 +1,7 @@
 # comment syntax
 
 # basic syntax - key and value separated by colon and space before the value
-key: value
+  key: value
 
 # Scalar data types
 integerValue: 1                     # integer value
