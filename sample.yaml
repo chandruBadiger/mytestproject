@@ -1,8 +1,7 @@
-# comment syntax
-
-# basic syntax - key and value separated by colon and space before the value
-= key: value
-
-# Scalar data types
-integerValue: 1                     # integer value
-floatingValue: 1                     # floating vale
+name: hadolint
+version: "2.12.1"
+synopsis: Dockerfile Linter JavaScript API
+description:
+  A smarter Dockerfile linter that helps you build best practice Docker images.
+category: Development
+author: Lukas Martinelli
